@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=😊Hello folks!!!%20it's%20Krishanu%20😊&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Krishanu%20Dev😊&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 Here are some ideas to get you started:
 
